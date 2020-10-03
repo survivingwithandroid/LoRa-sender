@@ -7,4 +7,4 @@ Link: [LoRA LPWAN - How to get started with TTGO LoRa32 SX1276](https://www.surv
 
 [![twitter](https://img.shields.io/twitter/follow/survivingwithan.svg?style=social)](https://twitter.com/intent/follow?screen_name=survivingwithan)
 
-This repository contains the source code for the LoRa sender using TTGO LoRa32 SX1276.
+This repository contains the source code for the LoRa sender using TTGO LoRa32 SX1276. This source code uses the PlatformIO
